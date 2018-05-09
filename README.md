@@ -11,6 +11,7 @@ LDIRS = -L /usr/lib
 LDIRS = -L .
 
 ```
+Output
 
 ```
 ======= Test 1: Vanilla knapsack problem =====
